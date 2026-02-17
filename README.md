@@ -1,11 +1,17 @@
 ## Hi there 👋
-*Homelab enthusiast on a DevOps journey*
 
-> **Learning by doing.** Every service in my homelab exists to solve a real problem and teach something new. From ERP systems to Kubernetes clusters, I believe the best way to understand technology is to build with it.
+<div align="center">
+
+![Homelab](https://img.shields.io/badge/Homelab-Enthusiast-blue?style=for-the-badge)
+![DevOps](https://img.shields.io/badge/DevOps-Journey-green?style=for-the-badge)
+
+</div>
+
+> **Learning by doing.** The best way to understand technology is to build with it - exploring both how things work and why they matter.
 
 ---
 
-### Current Projects
+### Current Project
 ```yaml
 homelab:
   infrastructure: "3-node Kubernetes cluster on Proxmox"
@@ -15,41 +21,17 @@ homelab:
   
   in_progress:
     - "CNI deployment (Cilium)"
-    - "GitOps workflows with ArgoCD"
+    - "GitOps workflows (ArgoCD)"
+    - "CI/CD pipeline"
     - "Observability stack (VictoriaMetrics, VictoriaLogs, Grafana)"
-    - "Secrets management"
+    - "Secrets management with encryption"
     
   roadmap:
     - "Ingress controller with automated TLS (cert-manager)"
     - "Automated backups and disaster recovery"
-    - "CI/CD pipeline with security scanning and cost estimation"
-    - "Ansible playbooks for host configuration management"
-    - "Terragrunt for multi-environment DRY infrastructure"
 ```
 
-### 🧰 Tech Stack
-
-<div align="center">
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Proxmox](https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white)
-![Talos](https://img.shields.io/badge/Talos_Linux-FF6700?style=for-the-badge&logo=linux&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![YAML](https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white)
-
-</div>
-
-### 💼 Background & Certifications
-
-**Professional Experience**  
-13+ years in system development and infrastructure | ERP specialist (Odoo v18 certified) | Cloud architecture (Azure) | WCAG accessibility compliance
+---
 
 <div align="center">
 
